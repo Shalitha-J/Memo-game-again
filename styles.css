@@ -1,0 +1,43 @@
+
+
+body{
+    background-color: rgb(20, 19, 19);
+    /* position: relative; */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+#grid {
+    width: 400px;
+    height: 300px;
+    display: flex;
+    flex-wrap: wrap;
+
+    /* position: absolute;
+    top: 500%;
+    left: 50%;
+    transform: translateX(-50%); */
+    
+   
+}
+
+#result {
+    color: rgb(124, 101, 243);
+    font-size: 24px;
+}
+
+h3{
+    color: rgb(39, 205, 50)
+}
+
+.textd {
+    color: bisque;
+    margin-bottom: 5px;
+}
+.textd-a{
+    color: aqua;
+    margin-top: 40px;
+}
